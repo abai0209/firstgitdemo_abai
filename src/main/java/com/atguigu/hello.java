@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("hello ,mother fucker");
+        System.out.println("dev-A第一次更新");
     }
 }
