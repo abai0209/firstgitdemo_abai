@@ -5,6 +5,6 @@ public class hello {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("hello ,mother fucker");
-        System.out.println("master推送");
+        System.out.println("修改冲突后");
     }
 }
